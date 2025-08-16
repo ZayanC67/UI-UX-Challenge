@@ -8,3 +8,6 @@
 ## Day 2 - Research , Persona and userflow 
 - **Persona:**![Persona] (https://github.com/ZayanC67/UI-UX-Challenge/blob/main/persona.png)
 - **Userflow:**![Userflow] (https://github.com/ZayanC67/UI-UX-Challenge/blob/main/userflow.png)
+
+## Day 3 - Wireframes and prototype done 
+- **wireframes:** ![wireframes] (https://github.com/ZayanC67/UI-UX-Challenge/blob/main/wireframes.png)
