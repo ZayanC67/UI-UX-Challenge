@@ -11,3 +11,6 @@
 
 ## Day 3 - Wireframes and prototype done 
 - **wireframes:** ![wireframes] (https://github.com/ZayanC67/UI-UX-Challenge/blob/main/wireframes.png)
+
+## Day 4 - Typography 
+- **typography:**! [typography] (https://github.com/ZayanC67/UI-UX-Challenge/blob/main/typography.png)
